@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hexhub2/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/hexhub2/static/js/main.73d651a4.chunk.js",
-    "main.js.map": "/hexhub2/static/js/main.73d651a4.chunk.js.map",
+    "main.css": "/hexhub2/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/hexhub2/static/js/main.a4070405.chunk.js",
+    "main.js.map": "/hexhub2/static/js/main.a4070405.chunk.js.map",
     "runtime-main.js": "/hexhub2/static/js/runtime-main.c0399de2.js",
     "runtime-main.js.map": "/hexhub2/static/js/runtime-main.c0399de2.js.map",
     "static/js/2.0de75e58.chunk.js": "/hexhub2/static/js/2.0de75e58.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.20d5fec9.chunk.js": "/hexhub2/static/js/3.20d5fec9.chunk.js",
     "static/js/3.20d5fec9.chunk.js.map": "/hexhub2/static/js/3.20d5fec9.chunk.js.map",
     "index.html": "/hexhub2/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/hexhub2/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.7d180cbf.chunk.css.map": "/hexhub2/static/css/main.7d180cbf.chunk.css.map",
     "static/js/2.0de75e58.chunk.js.LICENSE.txt": "/hexhub2/static/js/2.0de75e58.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c0399de2.js",
     "static/js/2.0de75e58.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.73d651a4.chunk.js"
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.a4070405.chunk.js"
   ]
 }
